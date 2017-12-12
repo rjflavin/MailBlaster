@@ -1,0 +1,10 @@
+c:\users\motionlit\documents\visual studio 2017\Projects\MailBlaster\MailBlaster\bin\Debug\MailBlaster.exe.config
+c:\users\motionlit\documents\visual studio 2017\Projects\MailBlaster\MailBlaster\bin\Debug\MailBlaster.exe
+c:\users\motionlit\documents\visual studio 2017\Projects\MailBlaster\MailBlaster\bin\Debug\MailBlaster.pdb
+c:\users\motionlit\documents\visual studio 2017\Projects\MailBlaster\MailBlaster\obj\Debug\MailBlaster.csprojResolveAssemblyReference.cache
+c:\users\motionlit\documents\visual studio 2017\Projects\MailBlaster\MailBlaster\obj\Debug\MailBlaster.Properties.Resources.resources
+c:\users\motionlit\documents\visual studio 2017\Projects\MailBlaster\MailBlaster\obj\Debug\MailBlaster.csproj.GenerateResource.Cache
+c:\users\motionlit\documents\visual studio 2017\Projects\MailBlaster\MailBlaster\obj\Debug\MailBlaster.exe
+c:\users\motionlit\documents\visual studio 2017\Projects\MailBlaster\MailBlaster\obj\Debug\MailBlaster.pdb
+c:\users\motionlit\documents\visual studio 2017\Projects\MailBlaster\MailBlaster\obj\Debug\MailBlaster.SettingsForm.resources
+c:\users\motionlit\documents\visual studio 2017\Projects\MailBlaster\MailBlaster\obj\Debug\MailBlaster.MainForm.resources
