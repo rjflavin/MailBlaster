@@ -1,0 +1,2 @@
+# MailBlaster
+Mass Mailing Software
